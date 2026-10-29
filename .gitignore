@@ -1,0 +1,29 @@
+# Upstream binary and generated/reverse-engineered outputs
+*.apk
+*.apks
+*.aab
+*.idsig
+*.dex
+*.class
+*.jar
+build/
+decoded/
+reference/
+evidence/
+__pycache__/
+*.pyc
+# Secrets and local configuration
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+local.properties
+credentials*
+*token*.json
+*.log
+.DS_Store

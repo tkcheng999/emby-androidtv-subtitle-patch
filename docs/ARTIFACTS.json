@@ -1,0 +1,14 @@
+{
+  "original_apk_sha256": "0246821852b9a7b6e1448f751601c0040c1f3a9de80c4ea778fb2ba67a16d147",
+  "tested_pre_branding_apk_sha256": "a78a59fe4eece3a64848fd72f5168f465c7e5e9a39c32880a29f213121d0009a",
+  "installed_branded_apk_sha256": "a4243c32d8a76a7d97accc98998787f24eb74d58d7084da62f7f6c01cc92f519",
+  "branding_only_changed_resource": [
+    "res/drawable/app_icon.png"
+  ],
+  "dex_sha256_unchanged_by_branding": {
+    "classes2.dex": "95b76c3080f4753b287619a03733a2020ce2082275022aaac78f6a1d43b9a82c",
+    "classes.dex": "3fbf83146d914f4706b90eb4252c681c7c55d8a39e7d93b04f102f4679c841c4",
+    "classes3.dex": "31f40afb48ce8a129fa0c675979464be27b1203eef1d00971a0e51f3fe34a8fc"
+  },
+  "note": "Historical local artifact identifiers. APKs, signing keys and account information are not distributed. Rebuilding with another key will not reproduce the signed APK checksum."
+}
